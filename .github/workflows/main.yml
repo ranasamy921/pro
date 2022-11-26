@@ -15,5 +15,5 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: "login to docker hup"
-       run: docker login --username ranasamy --password dckr_pat_8U_N4n8c_42vaz8QaXA0qOOn5AQ
+        run: docker login --username ranasamy --password dckr_pat_8U_N4n8c_42vaz8QaXA0qOOn5AQ
        
