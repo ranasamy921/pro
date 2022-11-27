@@ -1,6 +1,6 @@
 package rana;
 
-public class Rana {
+public class rana {
 
     public static void main(String[] args) {
         System.out.println("RANA"); 
